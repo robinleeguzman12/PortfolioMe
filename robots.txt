@@ -1,0 +1,4 @@
+User-agent:*
+Allow: /
+
+Sitemap: https://portfoliongewan.netlify.app/sitemap.xml
